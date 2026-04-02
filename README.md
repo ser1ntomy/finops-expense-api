@@ -22,8 +22,10 @@ This project is a FastAPI backend application for managing and tracking cloud ex
 ## How to Run the Project
 Step 1: Install required libraries
 pip install -r requirements.txt
+
 Step 2: Run the FastAPI server
 uvicorn main:app --reload
+
 Step 3: Open in browser
 http://127.0.0.1:8000/docs
 
