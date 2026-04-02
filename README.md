@@ -19,28 +19,6 @@ This project is a FastAPI backend application for managing and tracking cloud ex
 - Pydantic (Data validation)
 - Uvicorn (Server)
 
-# FinOps Expense Management API
-
-This project is a FastAPI backend application for managing and tracking cloud expenses in a FinOps environment.
-
-## Features
-- Add new expense
-- View all expenses
-- View expense by ID
-- Update expense
-- Delete expense
-- Filter expenses by service
-- Filter expenses by date
-- Calculate total expense cost
-- Cost validation (cost must be greater than 0)
-
-## Technologies Used
-- FastAPI
-- SQLAlchemy (ORM)
-- SQLite (Database)
-- Pydantic (Data validation)
-- Uvicorn (Server)
-
 ## How to Run the Project
 Step 1: Install required libraries
 pip install -r requirements.txt
